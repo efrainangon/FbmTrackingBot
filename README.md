@@ -3,6 +3,8 @@ These are old versions of pieces to an Amazon FBA and FBM bot that automates var
 
 # What I Learned
 
+### createTrackingCSV.py
+
 * Asynchronous Web Scraping with Pyppeteer
 * Headless Browser Automation
 * Handling Dynamic Content
@@ -13,3 +15,14 @@ These are old versions of pieces to an Amazon FBA and FBM bot that automates var
 * User Input Handling
 * File I/O Operations
 * Dynamic URL Generation
+
+### dragDropFileConversion.py
+
+* GUI Development with Tkinter
+* Tabbed Interface
+* File Drop Handling
+* Text Widget Usage
+* Text Manipulation
+* User Input Processing
+* Dynamic Label Updates
+* Responsive Design
