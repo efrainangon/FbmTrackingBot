@@ -26,3 +26,16 @@ These are old versions of pieces to an Amazon FBA and FBM bot that automates var
 * User Input Processing
 * Dynamic Label Updates
 * Responsive Design
+
+### pdfProofOfDelivery.py
+
+* Asynchronous Web Scraping with Pyppeteer
+* Headless Browser Automation
+* Data Extraction and Manipulation
+* Dynamic Screenshot Capture
+* Conditional Handling and Retrying
+* User Input and Iterative Processing
+* Exception Handling
+* Dynamic File Naming and Storage
+* Counter and Progress Tracking
+* Responsive Delays
